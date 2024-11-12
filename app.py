@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import webbrowser
 
+
 # API endpoint
 api_endpoint = "https://pipecat-default-example-wispy-cloud-99.fly.dev/"
 
